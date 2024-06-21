@@ -1,0 +1,1 @@
+Developed a comprehensive database management system for an Over-The-Top (OTT) streaming platform, facilitating efficient organization and retrieval of data content. All stages were performed from scratch, including, schema design, scripting and testing.
